@@ -1,3 +1,4 @@
 # Belly Button Biodiversity
 ## Summary
-* Visual dashboard of bacterial biodiversity data using JavaScript
+*See the deployed app here: https://belly-button-biodiversity-94.herokuapp.com/ 
+*Visual dashboard of bacterial biodiversity data using JavaScript
